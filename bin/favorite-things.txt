@@ -1,0 +1,3 @@
+Color:Red10,Blue4,Green2
+Dogs:Dory100,Huey100,Doge100
+Food:Donuts1000,Grapes50,Carrots10
